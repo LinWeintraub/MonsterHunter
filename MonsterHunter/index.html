@@ -1,0 +1,46 @@
+<style>
+  body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #332F2D;
+  }
+</style>
+
+<div style="position: relative">
+  <p
+          style="
+        position: absolute;
+        z-index: 10;
+        color: white;
+        left: 10px;
+        top: 10px;
+        margin: 0;
+        align-items: center;
+        background-color: #802D40;
+        font-family: sans-serif;
+        font-size: 18px;"
+  >
+    <span>Score:</span> <span id="scoreEl">0</span>
+  </p>
+  <canvas></canvas>
+</div>
+
+<script
+  src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"
+  integrity="sha512-6+YN/9o9BWrk6wSfGxQGpt3EUK6XeHi6yeHV+TYD2GR0Sj/cggRpXr1BrAQf0as6XslxomMUxXp2vIl+fv0QRA=="
+  crossorigin="anonymous"
+  referrerpolicy="no-referrer"
+></script>
+
+<script src='modules/classes/Player.js'></script>
+<script src='modules/classes/Arrow.js'></script>
+<script src='modules/classes/Grid.js'></script>
+<script src='modules/classes/Monster.js'></script>
+<script src='modules/classes/MonsterShot.js'></script>
+<script src='modules/classes/Particle.js'></script>
+<script src='modules/utilities.js'></script>
+<script src="./audio.js"></script>
+
+<script src="./index.js"></script>

@@ -32,5 +32,6 @@ This game utilizes the following modules:
 7. **```Utility.js```:** Provides utility functions for collision detection and other common tasks.
 
 # Play
-Click [here](https://linweintraub.github.io/MonsterHunter/) to play the game!
+Click [**here**](https://linweintraub.github.io/MonsterHunter/) to play the game!
+
 ![Alt Text](https://github.com/LinWeintraub/MonsterHunter/blob/main/MonsterHunter.gif)

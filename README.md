@@ -29,7 +29,7 @@ This game utilizes the following modules:
 4. **```Monster.js```:** Represents an individual monster. It handles monster movement and shooting.
 5. **```MonsterShot.js```:** Represents the shots fired by monsters. It handles monster shot movement and rendering.
 6. **```Particle.js```:** Represents visual particles used for effects when objects collide or are destroyed.
-7. **```Utility.js```:** Provides utility functions for collision detection and other common tasks.
+7. **```Utilities.js```:** Provides utility functions for collision detection and other common tasks.
 
 # Play
 Click [**here**](https://linweintraub.github.io/MonsterHunter/) to play the game!

@@ -33,3 +33,4 @@ This game utilizes the following modules:
 
 # Play
 Click [here](https://linweintraub.github.io/MonsterHunter/) to play the game!
+![Alt Text](https://github.com/LinWeintraub/MonsterHunter/blob/main/MonsterHunter.gif)

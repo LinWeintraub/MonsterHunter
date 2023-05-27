@@ -13,13 +13,16 @@ MonsterHunter is an exciting browser-based shooting game where you take on the r
 2. **Move Right:** Press the 'd' key.
 3. **Shoot Arrow:** Press the space key.
 
+## Demo
+Click [here](https://your-game-url.com) to play the game!
+
 ## Installation
 1. Clone the repository or download the source code.
 2. Open the index.html file in a web browser.
 
 ## Development
 The game is built using HTML5 canvas and JavaScript. It utilizes various modules and classes to handle player movement, shooting mechanics, monster behavior, and collision detection. The game loop ensures smooth animation and updates game elements accordingly.
-The ```index.js``` file serves as the entry point for the game.
+The **```index.js```** file serves as the entry point for the game.
 
 ### Modules Used
 This game utilizes the following modules:
@@ -30,3 +33,4 @@ This game utilizes the following modules:
 5. **```MonsterShot.js```:** Represents the shots fired by monsters. It handles monster shot movement and rendering.
 6. **```Particle.js```:** Represents visual particles used for effects when objects collide or are destroyed.
 7. **```Utility.js```:** Provides utility functions for collision detection and other common tasks.
+

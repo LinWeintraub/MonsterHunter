@@ -18,7 +18,7 @@ MonsterHunter is an exciting browser-based shooting game where you take on the r
 2. Open the index.html file in a web browser.
 
 ## Development
-The game is built using HTML5 canvas and JavaScript. It utilizes various modules and classes to handle player movement, shooting mechanics, monster behavior, and collision detection. The game loop ensures smooth animation and updates game elements accordingly.
+The game is built using HTML canvas and JavaScript. It utilizes various modules and classes to handle player movement, shooting mechanics, monster behavior, and collision detection. The game loop ensures smooth animation and updates game elements accordingly.
 The **```index.js```** file serves as the entry point for the game.
 
 ### Modules Used

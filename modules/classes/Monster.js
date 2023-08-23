@@ -6,7 +6,7 @@ class Monster {
         }
 
         const image = new Image();
-        image.src = './images/monster.png';
+        image.src = '../images/monster.png';
 
         image.onload = () => {
             const scale = 0.13;

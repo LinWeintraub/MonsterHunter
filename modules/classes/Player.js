@@ -9,7 +9,7 @@ class Player {
         this.opacity = 1;
 
         const image = new Image();
-        image.src = '../images/bow-and-arrow.png';
+        image.src = './images/bow-and-arrow.png';
 
         image.onload = () => {
             const scale = 0.20;
